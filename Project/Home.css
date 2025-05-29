@@ -1,0 +1,38 @@
+h1{
+    margin-left: 90px;
+}
+h4{
+    margin-left: 90px;
+    color: rgb(31, 30, 30);
+}
+h5{
+    /* text-align:left; */
+    /* margin-right: 90px; */
+    color:green;
+}
+h3{
+    color:rgb(19, 196, 107);
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.but>Button{
+    width: 270px;
+    height:45px;
+    border-radius: 10px;
+}
+.Card{
+    /* border-color: rgb(116, 113, 113); */
+    width:270px;
+    margin-left: 90px;
+    margin :5px;
+    box-shadow: 0px 0px 1px 1px rgb(138, 136, 136);
+    border-radius: 5px;
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+

@@ -1,0 +1,56 @@
+.navp>p{
+    background-color: rgb(255, 51, 0);height: 23px;
+    color:white;
+}
+.nav>a{
+    background-color: rgb(255, 51, 0);height: 23px;
+    color:white;
+    text-align: left;
+}
+li{
+    display: inline;
+    /* justify-content: space-between; */
+    margin:10px;
+    padding: 10px;
+    text-decoration: none;
+    color:rgb(82, 81, 81);
+}
+ol{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 4px 4px rgb(190, 189, 189);
+    font-size: small;
+    
+}
+.Link{
+    color:black;
+}
+.imo{
+    margin-left:100px;
+    height:42px;
+}
+label{
+    margin-left: 50px;
+   margin-top:10px;
+}
+input{
+
+    width: 400px;
+    height: 25px;
+}
+button{
+    background-color: deepskyblue;
+    color:white;
+    font-weight: 400;
+    border-color: rgb(156, 154, 154);
+    height:31px;
+}
+.face>h2{
+    text-align: left;
+    margin:50px;
+}
+.lastimg{
+    margin-left: 470px;
+}
+.lastone>h4{
+    margin-left: 420px;
+}
